@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-azdeloitte",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37bd458f-cce8-40e9-97c7-0b209d7a6582",
+		"tenantId": "34bdb698-a84d-47f9-8134-bbd995c0176d"
+	}
+}
